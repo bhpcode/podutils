@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'matthew.connor@infinityworks.com'
 
   spec.summary       = 'cocoapod release utilities'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-podutils"
+  spec.homepage      = "https://github.com/bhpcode/podutils"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
